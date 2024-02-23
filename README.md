@@ -3,9 +3,20 @@
 ## ERP + CRM
 
 ## System Design
-1. Registration + initialization
-2. Independent database
-3. Data source switch
+1. Tenant identification
+2. Application
+3. Data access
+4. Cache
+5. Database
+
+## Features
+1. Multitenancy
+2. Self-service registration
+3. Subscription
+4. Extensible
+5. Monitoring, configuration, management
+6. User identification & authentication
+7. Customizing tenants
 
 ## Frontend
 - npm
